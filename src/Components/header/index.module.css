@@ -1,0 +1,14 @@
+.headerBackground{
+  
+    height: 40vh;
+    margin: 10px 10px 0 10px;
+    border-radius: 10px;
+    background-image: linear-gradient(90deg, rgba(186,49,225,0.6979166666666667) 21%, rgba(77,125,223,0.6026785714285714) 100%),url(../../images/les-elby-pe-eF3pFjYI-unsplash.jpg);
+    background-position: top;
+}
+
+.headerH1 {
+    margin:  0 auto;
+    width: 60%;
+    padding-top: 40px;
+}
