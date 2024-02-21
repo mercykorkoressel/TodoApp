@@ -9,7 +9,10 @@ return (
             className="form-check-label"
             for={index}
         >{todo}</label>
-
+        
+<button className="btn btn-danger">
+    DELETE
+</button>
     </li>
     );
 }
